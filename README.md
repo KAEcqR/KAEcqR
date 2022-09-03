@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm currently working on my personal website 
-I'm currently learning HTML/CSS and JavaScript 
+Now I'm learning HTML/CSS and JavaScript 
 
 <!--
 **KAEcqR/KAEcqR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
