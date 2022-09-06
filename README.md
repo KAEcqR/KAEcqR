@@ -1,6 +1,6 @@
 <h1 align="center">Siema 👋, jestem Kacper</h1>
 <h3 align="center">Uczę się programowania w technikum</h3>
-<img align="right" src="https://cdn.discordapp.com/attachments/865251109487771659/1016794806841778216/gif.gif" width="480" height="429">
+<img align="right" src="https://cdn.discordapp.com/attachments/865251109487771659/1016794806841778216/gif.gif" width="300" height="268">
 
 - 🌱 Obecnie uczę się: **HTML / CSS / JS**
 
