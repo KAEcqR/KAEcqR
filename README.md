@@ -4,7 +4,7 @@
 <h3 align="center">I am learning programing in technical college</h3>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=kaecqr&show_icons=true&theme=city_lights" />
 
-<h3 align="left">Contact Me 📫 : </h3>
+<h3 align="left">Contact 📫 : </h3>
 
 [Email Me!](mailto:kacperprochwicz@op.pl)
 
