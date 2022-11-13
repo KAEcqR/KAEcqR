@@ -7,7 +7,7 @@
 <h3 align="left">Contact 📫 : </h3>
 
 [Email Me!](mailto:kacperprochwicz@op.pl)
-Discord: KÆcqR#9050
+<h5>Discord: KÆcqR#9050</h5>
 
 
 <h3 align="left">Social Media 🐱‍👤:</h3>
