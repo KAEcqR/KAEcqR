@@ -4,9 +4,9 @@
 <h3 align="center">I am learning programing in technical college</h3>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=kaecqr&show_icons=true&theme=city_lights" />
 
-<h3 align="left">Contact 📫 : </h3>
+<h3 align="left">Contact 📫: </h3>
 
-[Email Me!](mailto:kacperprochwicz@op.pl)
+[Email me ](mailto:kacperprochwicz@op.pl)
 <h5>Discord: KÆcqR#9050</h5>
 
 
@@ -22,3 +22,5 @@
 
 <h3 align="left">Visitors Count 👀:</h3>
 <img src="https://profile-counter.glitch.me/KAEcqR/count.svg" />
+
+
