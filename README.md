@@ -6,7 +6,7 @@
 <h3 align="left">Contact 📫: <img align="right" src="https://github-readme-stats.vercel.app/api?username=kaecqr&show_icons=true&theme=city_lights" /></h3>
 
 
-<h5>Email: kacperprochwicz@op.pl</h5>
+<h5>E-mail: kacperprochwicz@op.pl</h5>
 <h5>Discord: KÆcqR#9050</h5>
 
 
