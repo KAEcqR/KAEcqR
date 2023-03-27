@@ -8,7 +8,7 @@
 <h4>E-mail 📧: kacperprochwicz@op.pl</h3>
 <h4>Discord 🐱‍👤: KÆcqR#9050</h3>
 
-<h3 align="left">Languages and tools 🛠: </h2>
+<h3 align="left">Languages and tools 🛠:</h2>
 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
