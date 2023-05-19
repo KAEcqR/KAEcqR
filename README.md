@@ -8,8 +8,9 @@
 <h4>E-mail 📧: <a href="mailto:kacperprochwicz@op.pl"> kacperprochwicz@op.pl </a></h3>
 <h4>Discord 🐱‍👤: KÆcqR#9050</h3>
 
-<h3 align="left">Languages and tools 🛠:</h2>
+<h3 align="left">Languages and tools 🛠:</h3>
 
+<p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=KAEcqR&theme=city-lights&border=DDDDDD)](https://git.io/streak-stats)">
@@ -17,8 +18,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+</p>
 
-<h3 align="left">Visitors Counter 👀:</h2>
+<h3 align="left">Visitors Counter 👀:</h3>
 <img src="https://profile-counter.glitch.me/KAEcqR/count.svg" />
 
 <h6>logout</h6>
