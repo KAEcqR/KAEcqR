@@ -16,5 +16,5 @@
 ### 🛠 Languages and Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=cpp,cs,php,js,kotlin,html,css,mysql,sqlite,git,docker,androidstudio,bootstrap,angular,ts" />
+<img src="https://skillicons.dev/icons?i=cpp,cs,php,js,kotlin,html,css,mysql,sqlite,git,nodejs,androidstudio,bootstrap,angular,ts" />
 </p>
