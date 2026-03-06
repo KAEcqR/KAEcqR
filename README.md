@@ -2,16 +2,17 @@
 
 <b>```Junior Developer learning programming in technical high school```</b>
 
----
 <p>
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=KAEcqR&theme=city-lights&border=DDDDDD" />
 </p>
+
 ### 👨‍💻 About Me
 
 - 🎓 Technical high school student (Programming profile)
 - 💻 Interested in backend, graphics programming and simulations
-- 🚀 Currently learning **C++, .NET, ASP.NET MVC and OpenGL**
-- 📚 Passed **INF.04 exam with 98%**
+- 🚀 Currently learning **C++, Kotlin, Angular and OpenGL**
+
+---
 
 ### 🛠 Languages and Tools
 
