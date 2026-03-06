@@ -13,8 +13,6 @@
 - 🚀 Currently learning **C++, .NET, ASP.NET MVC and OpenGL**
 - 📚 Passed **INF.04 exam with 98%**
 
----
-
 ### 🛠 Languages and Tools
 
 <p align="left">
