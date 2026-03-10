@@ -10,7 +10,7 @@
 
 - 🎓 Technical high school student (Programming profile)
 - 💻 Interested in backend, graphics programming and simulations
-- 🚀 Currently learning **C++, Kotlin, Angular and OpenGL**
+- 🚀 Currently learning **C++, Kotlin, Angular, React and OpenGL**
 <br><br>
 
 ### 🛠 Languages and Tools
